@@ -127,7 +127,7 @@ function initialize() {
 				  '</div>'+
 				  '<h1 id="firstHeading" class="firstHeading">'+name+'</h1>'+
 				  '<div id="bodyContent">'+
-				  '<p><b>'+name+'</b>, offers the following services:<br></p>'+'<table><thead><tr><td>Monday</td><td>Tuesday</td><td>Wednesday</td><td>Thursday</td><td>Friday</td></tr></thead><tbody><tr><td>Obstetrics & <br>Gynaecology</td><td>Paediatrics & <br>Geiratrics</td><td>Hypertention & <br>Diabetes Mellitus</td><td>Ear, Nose & Throat <br>Optical<br> Psychiatry </td><td>Anti-Retroviral <br>Therapy</td></tr></tbody></table><ul class="actions"><a href="#" class="jumplink" onclick="reminder();"><li>Set a reminder</li></a><a href="#" class="jumplink"><li>Book an appointment</li></a></ul>'+
+				  '<p><b>'+name+'</b>'+
 				  '</div>'+
 				  '</div>';
 
