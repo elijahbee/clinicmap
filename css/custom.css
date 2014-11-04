@@ -1,0 +1,152 @@
+body {
+	background:gray;
+}
+
+* {
+	text-decoration:none!important;
+}
+
+#main {
+	width: 45em;
+	background: #ffffff;
+	box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.25);
+}
+
+input, textarea, select {
+	padding-left:5px!important;
+}
+
+#features {
+	position: relative;
+	width: 95%;
+	margin: 3% auto;
+}
+
+#features li {
+	margin-top: 5px;
+	background: white;
+	padding: 4px 4px 4px 10px;
+	color: green;
+	border: 1px solid silver;
+}
+
+.actions {
+	position: relative;
+	width: 95%;
+	margin: 3% auto;
+}
+
+.actions li {
+	margin-top: 5px;
+	background: white;
+	padding: 4px 4px 4px 10px;
+	color: green;
+	border: 1px solid silver;
+	width: 100%;
+}
+
+ul.actions li {
+	margin-left: 0;
+}
+
+#showmain {
+	display: none;
+	z-index: 100;
+	position: absolute;
+	top: 0;
+	margin: 0 auto;
+	background: green;
+	padding: 10px;
+	width: 60%;
+	text-align: center;
+	color: white;
+	border-radius: 0 0 30px 30px;
+	left: 0;
+	right: 0;
+	box-shadow: 0 0 3px black;
+}
+
+section, article {
+	border-bottom:2px solid silver;
+}
+
+#nav a {
+	background: green;
+	border-radius: 100px;
+	box-shadow: 0 0 0 5px green;
+}
+
+#nav img {
+	width:50px;
+	border-radius:50px;
+}
+
+#reminder {
+	background: white;
+	position: absolute!important;
+	margin: auto auto;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+
+
+#content { 
+	overflow:hidden; 
+}
+
+table {
+	width:100%;
+}
+thead {
+	background:silver;
+	font-weight:bold;
+	text-align:center;
+}
+
+tbody td {
+	background:whitesmoke;
+	border:1px solid white;
+	line-height: 20px;
+}
+
+.bg-green {
+	background:green!important;
+}
+.fg-white {
+	color:white!important;
+}
+
+.disclaimer {
+	font-size:16px;
+	line-height:20px;
+	border:none!important;
+	color:black!important;
+	text-align:justify;
+}
+
+/* MAPS CSS */
+#googlemaps { 
+  height: 100%; 
+  width: 100%; 
+  position:absolute; 
+  top: 0; 
+  left: 0; 
+  z-index: 0; /* Set z-index to 0 as it will be on a layer below the contact form */
+}
+ 
+#contactform { 
+  position: relative; 
+  z-index: 1; /* The z-index should be higher than Google Maps */
+  width: 300px;
+  margin: 60px auto 0;
+  padding: 10px;
+  background: black;
+  height: auto;
+  opacity: .45; /* Set the opacity for a slightly transparent Google Form */ 
+  color: white;
+}
+/* END OF MAPS CSS */
+

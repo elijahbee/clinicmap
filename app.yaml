@@ -1,0 +1,17 @@
+application: kemi-ruth-9
+version: 1
+runtime: php
+api_version: 1
+
+handlers:
+- url: /css
+  static_dir: css
+  
+- url: /.*
+  script: index.php
+  
+- url: /js
+  static_dir: js
+ 
+- url: /images
+  static_dir: images
