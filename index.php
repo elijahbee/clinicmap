@@ -7,10 +7,11 @@
 	Contacts
 	
 	Team Members 
-	1. Dr. Ruth Kemi 	- Project Manager 	- 
-	2. Dr. Ruth Terry 	- Marketing Manager - 
-	3. Elijah Bee 		- Developer			- 
-	4. Aisha Nana 		- Designer			- 
+	1. Dr. Ruth Kemi 	- Manager 	
+	2. Dr. Ruth Terry 	- Marketing   
+	3. Elijah Bee 		- Developer			 
+	4. Aisha Nana 		- Design			
+	5. Allan  			- Design	
 	
 	Awards & Recognition
 	1. Best Public Service (Special Award) At Garage48 Kampala on 26th October 2014
