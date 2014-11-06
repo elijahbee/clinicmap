@@ -7,10 +7,10 @@
 	Contacts
 	
 	Team Members 
-	1. Ruth Kemi 	- Medical Student 	- 
-	2. Ruth Terry 	- Medical Student 	- 
-	3. Elijah Bee 	- Developer			- 
-	4. Aisha Nana 	- Designer			- 
+	1. Dr. Ruth Kemi 	- Project Manager 	- 
+	2. Dr. Ruth Terry 	- Marketing Manager - 
+	3. Elijah Bee 		- Developer			- 
+	4. Aisha Nana 		- Designer			- 
 	
 	Awards & Recognition
 	1. Best Public Service (Special Award) At Garage48 Kampala on 26th October 2014
@@ -59,10 +59,10 @@
 			 fjs.parentNode.insertBefore(js, fjs);
 		   }(document, 'script', 'facebook-jssdk'));
 		</script>
-		<div id="showmain">View Clinics</div>
+		<div id="showmain" style="display:none;">View Clinics</div>
 		<div id="googlemaps"></div>
 		<!-- Wrapper-->
-		<div id="wrapper">
+		<div id="wrapper" style="visibility:hidden;">
 		
 			<!-- Nav -->
 				<nav id="nav">
@@ -90,8 +90,8 @@
 						<li>&copy; 2014 All Rights Reserved </li>
 					</ul>
 				</div>
-				<div class="fb-like" data-share="true" data-width="450" data-show-faces="true"></div>
 		</div>
+		<div class="fb-like" data-share="true" data-width="450" data-show-faces="false" style="margin-left:180px;"></div>
 		<!--<div id="reminder" class="panel">
 			<ul class="actions">
 				<a href="#" class="jumplink"><li>Name</li></a>

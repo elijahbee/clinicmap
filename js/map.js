@@ -8,8 +8,6 @@ var type = '';
 var phone = '';
 var token = '';
 var html = '';
-
-
 var pos = '';
 var thingsToFind = ['doctor','clinic','hospital','private hospital','health centre'];
 var radius = 1000;
@@ -147,11 +145,6 @@ function initialize() {
 
 
 	  // END FIND CLINICS
-	  
-	  
-	  
-	  
-	  
 	  
 	}, function() {
 	  handleNoGeolocation(true);
