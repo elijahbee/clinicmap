@@ -3,6 +3,8 @@ clinicmap
 
 Clinic Map is a location based service designed to simplify accessing medical assistance by showing the location and services offered by medical facilities in a radius of 1,000 meters. It's powered by Google Maps. 
 
+View the live site here >> http://www.clinicmap.org
+
 Developed at #Garage48Kampala - 24th - 26th October 2014
 
 Contacts 
