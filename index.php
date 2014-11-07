@@ -4,7 +4,7 @@
 	Clinic Map was developed to simplify accessing medical assistance especially during emergencies.
 	Developed at #Garage48Kampala - 24th - 26th October 2014
 	
-	Contact us 
+	Contacts 
 	http://facebook.com/clinicmap
 	http://twitter.com/clinicmap
 	
@@ -94,7 +94,7 @@
 					</ul>
 				</div>
 		</div>
-		<div class="fb-like" data-share="true" data-width="450" data-show-faces="false" style="margin-left:180px;"></div>
+		<div class="fb-like" data-share="true" data-width="450" data-show-faces="false" style="left:90px;position:fixed;bottom:10px;"></div>
 		<!--<div id="reminder" class="panel">
 			<ul class="actions">
 				<a href="#" class="jumplink"><li>Name</li></a>
